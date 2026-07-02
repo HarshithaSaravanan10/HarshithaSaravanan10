@@ -8,6 +8,16 @@
 
 ---
 
+<td align="center">
+  <div align="center">
+    <img
+      src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+      width="350"
+      alt="Coding GIF"
+    />
+  </div>
+</td>
+
 ## 🚀 About Me
 
 💡 I'm *Harshitha S*, a Computer Science student passionate about building innovative and impactful software.
