@@ -58,7 +58,7 @@
 | 💻 Languages | Python, Java, SQL |
 | 🤖 Interests | AI, ML, Data Science |
 | 🌐 Development | Full Stack Development |
-| 🧠 Problem Solving | 400+ LeetCode Problems |
+| 🧠 Problem Solving | 500+ LeetCode Problems |
 | 🎯 Goal | AI Engineer & Software Developer |
 
 </div>
